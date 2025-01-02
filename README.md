@@ -1,6 +1,8 @@
 # PowerBi-Reports
 Zomato Project
+
 Goal: To analyze the Zomato dataset to understand the distribution of restaurants, analyze ratings, and identify trends in customer reviews.
+
 Description:
 Data Cleaning: Processed the dataset to remove duplicates, handle missing values, and standardize data formats.
 Data Visualization: Created various charts (bar, line, and pie charts) to visualize restaurant distribution by location, cuisine, and rating distribution.
