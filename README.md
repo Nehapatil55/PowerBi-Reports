@@ -17,4 +17,3 @@ Technology: Power BI.
 
 Result: The Zomato project provided insights into restaurant trends, popular cuisines, and factors affecting ratings. This analysis helps in understanding market dynamics and can guide business decisions for restaurant management and marketing strategies.
 
-Link to Power BI Report: 
